@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Titanic Survival Checker
 
-You can use the [editor on GitHub](https://github.com/rushankgoyal/titanic-survival-checker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## What it does
+It has 3 parameters: Class (1st, 2nd or 3rd), Age, and Sex. It uses the Wolfram Cloud API to pass in these parameters and get an output which it then displays -- either "survived or "died"
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How I built it
+I used a publicly available ML model hosted on Wolfram Cloud, and I coded an Android app to go along with it.
 
-### Markdown
+## Challenges I ran into
+How to make the UI look appealing
+Testing the ML model to check results
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Accomplishments that I'm proud of
+I am proud of the simplicity of the app. It is quite intuitive to use and fun to play with.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rushankgoyal/titanic-survival-checker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## What I learned
+I learned how to use APIs integrated with the Wolfram Cloud service.
